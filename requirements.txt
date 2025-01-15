@@ -247,6 +247,7 @@ patsy @ file:///C:/b/abs_21hy_wyj13/croot/patsy_1718378184379/work
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 pillow @ file:///C:/b/abs_32o8er3uqp/croot/pillow_1721059447598/work
+pipdeptree==2.24.0
 pipreqs==0.5.0
 pkce @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pkce_1699482718905/work
 pkginfo @ file:///C:/b/abs_bciypal17m/croot/pkginfo_1715696027839/work
